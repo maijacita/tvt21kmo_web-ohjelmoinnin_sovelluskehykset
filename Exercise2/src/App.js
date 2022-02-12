@@ -11,10 +11,10 @@ import './App.css';
 function App() {
 
     const [ shoppingListItems, setShoppingListItems  ] = useState([
-        { id: 1, value: 'Hiivaa', qty: 0},
-        { id: 2, value: 'Sokeria', qty: 0},
-        { id: 3, value: 'Ämpäria', qty: 0},
-        { id: 4, value: 'marjoja', qty: 0}  
+        { id: 1, value: 'Sandels', qty: 0},
+        { id: 2, value: 'Koff', qty: 0},
+        { id: 3, value: 'Upsider', qty: 0},
+        { id: 4, value: 'Karhu', qty: 0}  
          
     ]);
 
